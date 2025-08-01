@@ -4,3 +4,4 @@ Flask-Admin
 Flask-CORS
 psycopg2-binary
 python-dotenv
+gunicorn
