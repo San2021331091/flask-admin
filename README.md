@@ -1,2 +1,3 @@
-"#flask-admin-panel" 
+#flask-admin-panel
+
 
